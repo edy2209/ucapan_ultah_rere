@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=30&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&width=700&height=70&lines=WELLCOME+TO+MY+GITHUB" alt="Typing SVG" />
 </p>
 
-# PREVIEW TAMPILAN UNDANGAN 
-![Undangan Online Thumbnail](/isi%20khusus/Screenshot%20(315).png)
+# PREVIEW TAMPILAN UCAPAN ULTAH 
+![Undangan Online Thumbnail](/rere/Screenshot%20(320).png)
 
 # About
-Undangan Online!
+Ucapan Ultah Online!
 
-ini merupakan proyek undangan online yang bertujuan untuk berbagi kode dengan Anda semua. saya percaya bahwa akses yang mudah dan fleksibilitas merupakan kunci untuk memfasilitasi kolaborasi yang lebih baik dalam proyek ini.Dengan menggunakan undangan online,  kami bertujuan untuk membuat pengalaman  akses menjadi lebih mudah bagi semua pihak yang terlibat. saya harap proyek ini tidak hanya memudahkan interaksi, tetapi juga mempercepat proses penyebaran informasi.
+Ucapan Ultah Online adalah sebuah platform berbasis web yang memungkinkan pengguna untuk mengirimkan ucapan selamat ulang tahun kepada teman, keluarga, atau dengan kekasih. mereka secara mudah dan cepat melalui internet. Platform ini dirancang untuk memberikan pengalaman yang menyenangkan dan personal dalam merayakan momen spesial tersebut.
 
 Terima kasih telah berkunjung !,suport saya terus untuk berkreasi dengan kasih bintang di github saya.
 
@@ -17,11 +17,11 @@ Terima kasih telah berkunjung !,suport saya terus untuk berkreasi dengan kasih b
 
 | Feature |  Status |  Check at |
 | ------- |  ------ | --------- |
-| Countdown waktu acara |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  17/03/2024 |
-| Foto Mempelai Pengantin |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  17/03/2024 |
-| Peta Maps dan waktu acara di mulai |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  17/03/2024 |
-| Input data hadir dengan Database Spredsheet |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  17/03/2024 |
-| saweria/donasi/gift |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  17/03/2024 |
+| Animasi buka surat di halaman depan |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  18/03/2024 |
+| kata-kata ucapan singkat |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  18/03/2024 |
+| Foto temen/kekasih yang ultah |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  18/03/2024 |
+| Inputan permintaan yang terintegrasi pesan masuk ke wa kita |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  18/03/2024 |
+| footer bebas ganti |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  18/03/2024 |
 
 # Pengembangan Web dengan
 
@@ -31,15 +31,9 @@ Terima kasih telah berkunjung !,suport saya terus untuk berkreasi dengan kasih b
     <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"/>
 </p>
 
-# Database
+# Cek Hasil
+Untuk melihat demo web nya bisa [Klik Disini](https://edy2209.github.io/ucapan_ultah_rere/hbd-anya/index.html)
 
-Untuk penggunaa db nya kita menggunakan spredsheat yang mudah dan praktis
-<p align="left"> 
-    <img alt="spreedsheet" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge"/>
-</p>
 
-# Terima kasih
 
-Saya ucapkan terima kasih ke pada bapak sandika ghalih ,karna berkat vidionya lah saya bisa membuat undangn ini dengan baik,dan dapat di pergunakan semestinya:
 
-[![Tonton Video](/isi%20khusus/Screenshot%20(316).png)](https://youtu.be/1lCKoLKTzRk?si=LTSbvhp4laU1W8zJ)
